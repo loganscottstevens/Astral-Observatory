@@ -1,5 +1,5 @@
 # Astral Observatory
-A project my Logan
+A project by Logan
 
 # See Also
-* [Astral Observatory](https://www.youtube.com/watch?v=QEV1YKYTp3I)
+* [YouTube - Astral Observatory](https://www.youtube.com/watch?v=QEV1YKYTp3I)
